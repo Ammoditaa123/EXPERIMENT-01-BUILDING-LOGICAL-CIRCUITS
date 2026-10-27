@@ -68,6 +68,9 @@ F3 = !(
 **Output:** F3  
 **Challenge:** Apply De Morgan's theorems and implement the circuit using NAND and NOR gates.
 
+<img width="1075" height="672" alt="WhatsApp Image 2026-10-27 at 2 28 05 PM" src="https://github.com/user-attachments/assets/84848645-d452-4ee2-b63e-1a7858ecb69b" />
+
+
 ### Equation 4: XOR-XNOR Combinational Circuit
 
 ```text
@@ -78,6 +81,10 @@ F4 = ((A XOR B) & (C XNOR D))
 **Inputs:** A, B, C, D  
 **Output:** F4  
 **Challenge:** Compare an XOR/XNOR implementation with a basic-gate implementation.
+
+<img width="1073" height="572" alt="WhatsApp Image 2026-10-27 at 2 26 44 PM" src="https://github.com/user-attachments/assets/c21f6ccd-7911-47a9-86dc-6ab5763df564" />
+
+
 
 ### Equation 5: Five-Input Logic Function
 
