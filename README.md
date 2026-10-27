@@ -1,5 +1,8 @@
 # EXPERIMENT-01: BUILDING LOGICAL CIRCUITS
 
+## Name : Ammoditaa Kandpal 
+## Register Number : RA2511030010362
+
 ## 1. Aim
 
 To design, implement, simplify, and verify combinational logic circuits using Boolean algebra and digital logic gates.
