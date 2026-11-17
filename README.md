@@ -36,8 +36,7 @@ F1 = (!A & B & C)
 **Inputs:** A, B, C, D  
 **Output:** F1  
 **Challenge:** Simplify the expression and compare gate counts.
-
-
+<img width="1600" height="917" alt="WhatsApp Image 2026-10-27 at 2 23 54 PM" src="https://github.com/user-attachments/assets/901444f3-397c-4b2d-9d83-82dbea96bd88" />
 
 ### Equation 2: Product-of-Sums Circuit
 
@@ -50,6 +49,7 @@ F2 = (A | !B | C)
 **Inputs:** A, B, C, D  
 **Output:** F2  
 **Challenge:** Implement the circuit using NAND gates and verify functional equivalence.
+<img width="1600" height="881" alt="WhatsApp Image 2026-10-27 at 2 21 42 PM" src="https://github.com/user-attachments/assets/d112670a-00b5-4406-a1a4-d679595d824f" />
 
 ### Equation 3: Nested Complement Logic
 
